@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Voting System.**
 
-- 🌱 I’m currently learning **Backend Engineering at Alx.**
+- 🌱 I’m currently learning **Mechatronics**
 
 - 👯 I’m looking to collaborate on **any project you would like to.**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **anonymousveans@gmail.com**
 
-- ⚡ Fun fact **Success is like Pregnancy, We get Congratulation no one knows how many times you get F*cked**
+- ⚡ Fun fact **Success is like Pregnancy, We get Congratulation but no one knows how many times you get F*cked**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
