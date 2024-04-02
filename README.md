@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat" alt="jeshi2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshi2" alt="jeshi2" /></a> </p>
+<p align="left"> <a href="https://github.com/jeshi2/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshi2" alt="jeshi2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/daisraelianon" target="blank"><img src="https://img.shields.io/twitter/follow/daisraelianon?logo=twitter&style=for-the-badge" alt="daisraelianon" /></a> </p>
 
