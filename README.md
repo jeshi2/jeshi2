@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Wagwana</h1>
-<h3 align="center">A passionate CyberSecurity Analyst & Back-End Software Engineer from Kenya.</h3>
+<h3 align="center">A passionate CyberSecurity Analyst & Back-End Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat" alt="jeshi2" /> </p>
 
