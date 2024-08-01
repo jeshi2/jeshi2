@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/daisraelianon" target="blank"><img src="https://img.shields.io/twitter/follow/daisraelianon?logo=twitter&style=for-the-badge" alt="daisraelianon" /></a> </p>
 
-- 🔭 I’m currently working on **Voting System.**
+- 🔭 I’m currently working on **System.**
 
 - 🌱 I’m currently learning **Mechatronics**
 
