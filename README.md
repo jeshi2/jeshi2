@@ -23,6 +23,19 @@
 
 - ⚡ Fun fact **Success is like Pregnancy, We get Congratulation but no one knows how many times you get F*cked**
 
+## 🧠 Penetration Tester Path – Completed ✅
+
+I’ve successfully completed the **Penetration Tester** path on Hack The Box Academy!
+
+- Gained skills in enumeration, exploitation, privilege escalation (Linux & Windows), and real-world attack scenarios.
+- Practiced hands-on labs built to simulate enterprise-grade environments.
+- Strengthened red team and ethical hacking capabilities.
+
+Proud moment unlocked on Hack The Box. On to the next challenge! 🔐  
+👤 HTB Profile: [jeshi2](https://app.hackthebox.com/profile/jeshi2)  
+🧰 #CyberSecurity #Pentesting #HackTheBox #RedTeam #InfoSec
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daisraelianon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daisraelianon" height="30" width="40" /></a>
