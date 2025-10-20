@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Wagwana</h1>
-<h3 align="center">A passionate CyberSecurity Analyst & Back-End Software Engineer.</h3>
+<h3 align="center">Certified Penetration Testing Specialist (CPTS) | Cybersecurity Analyst & Certified Back-End Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat" alt="jeshi2" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/daisraelianon" target="blank"><img src="https://img.shields.io/twitter/follow/daisraelianon?logo=twitter&style=for-the-badge" alt="daisraelianon" /></a> </p>
 
-- 🔭 I’m currently working on **System.**
-
-- 🌱 I’m currently learning **Mechatronics**
-
-- 👯 I’m looking to collaborate on **any project you would like to.**
-
-- 🤝 I’m looking for help with **any project at handy.**
+- 🔭 I’m currently working on **secure system development and penetration testing projects.**
+  
+- 🌱 I’m currently learning **Mechatronics** to bridge hardware and cybersecurity.
+  
+- 👯 I’m open to collaborating on **security-focused or backend-driven applications.**
+  
+- 🤝 I’m available to contribute to **any project that blends tech and innovation.**  
 
 - 👨‍💻 All of my projects are available here [https://github.com/jeshi2?tab=repositories](https://github.com/jeshi2?tab=repositories)
 
-- 💬 Ask me about **Hacking and Development.**
+- 💬 Ask me about **Ethical Hacking, Cybersecurity, or Software Development.**
 
 - 📫 How to reach me **anonymousveans@gmail.com**
 
