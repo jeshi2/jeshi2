@@ -203,11 +203,17 @@ Links:
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jeshi2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeshi2" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeshi2&show_icons=true&locale=en&layout=compact" alt="jeshi2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeshi2&show_icons=true&locale=en" alt="jeshi2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeshi2&" alt="jeshi2" /></p>
+<h3 align="center">📊 GitHub Stats & Support</h3>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/jeshi2">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeshi2&show_icons=true&locale=en&layout=compact&theme=radical" alt="jeshi2" />
+</div>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeshi2&show_icons=true&locale=en&theme=radical" alt="jeshi2" />
+  <img src="https://streak-stats.demolab.com/?user=jeshi2&theme=radical" alt="jeshi2" />
+</div>
