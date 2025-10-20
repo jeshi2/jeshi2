@@ -1,25 +1,47 @@
-<h1 align="center">Hi 👋, I'm Antony Wagwana</h1>
-<h3 align="center">Certified Penetration Testing Specialist (CPTS) | Cybersecurity Analyst & Certified Back-End Software Engineer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Antony+Wagwana;Certified+Penetration+Testing+Specialist+%28CPTS%29;Cybersecurity+Analyst+%26+Back-End+Engineer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat" alt="jeshi2" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jeshi2&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+  <a href="https://x.com/daisraelianon" target="_blank">
+    <img src="https://img.shields.io/x/followers/daisraelianon?logo=x&style=for-the-badge&color=1DA1F2" alt="X Followers" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshi2" alt="jeshi2" /></a> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Built%20with%20-%F0%9F%A6%9B%20%F0%9F%8C%90%20%F0%9F%92%A1-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Built with" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/daisraelianon" target="blank"><img src="https://img.shields.io/twitter/follow/daisraelianon?logo=twitter&style=for-the-badge" alt="daisraelianon" /></a> </p>
+### 🚀 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshi2&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=jeshi2&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on **secure system development and penetration testing projects.**
-  
-- 🌱 I’m currently learning **Mechatronics** to bridge hardware and cybersecurity.
-  
-- 👯 I’m open to collaborating on **security-focused or backend-driven applications.**
-  
-- 🤝 I’m available to contribute to **any project that blends tech and innovation.**  
+- 🔭 **Currently working on** secure system development and penetration testing projects.
+- 🌱 **Currently learning** Mechatronics to bridge hardware and cybersecurity.
+- 👯 **Open to collaborate on** security-focused or backend-driven applications.
+- 🤝 **Available to contribute to** any project that blends tech and innovation.
+- 👨‍💻 Check out my projects at [<img src="https://cdn.simpleicons.org/github/181717" height="16" width="16" /> jeshi2](https://github.com/jeshi2?tab=repositories)
+- 💬 **Ask me about** Ethical Hacking, Cybersecurity, or Software Development.
+- 📫 **Reach me at** anonymousveans@gmail.com
+- ⚡ **Fun fact:** Success is like Pregnancy—everyone congratulates you, but no one knows how many times you got *f*cked.
 
-- 👨‍💻 All of my projects are available here [https://github.com/jeshi2?tab=repositories](https://github.com/jeshi2?tab=repositories)
-
-- 💬 Ask me about **Ethical Hacking, Cybersecurity, or Software Development.**
-
-- 📫 How to reach me **anonymousveans@gmail.com**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Counter" />
+</div>
 
 - ⚡ Fun fact **Success is like Pregnancy, We get Congratulation but no one knows how many times you get F*cked**
 
@@ -53,31 +75,32 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/daisraelianon" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" height="30" width="40" />
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px auto; max-width: 100%;">
+  <a href="https://twitter.com/daisraelianon" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="X (Twitter)" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://linkedin.com/in/antony-wagwana-b5156b182" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/antony-wagwana-b5156b182" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://fb.com/youranononeofficial" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
+  <a href="https://fb.com/youranononeofficial" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.hackerrank.com/antonyevans19" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/antonyevans19" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.leetcode.com/jeshi2" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/leetcode/F89F1B" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.leetcode.com/jeshi2" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" alt="LeetCode" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://app.hackthebox.com/profile/856425" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" height="30" width="40" />
+  <a href="https://app.hackthebox.com/profile/856425" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://eng-antony.vercel.app" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" height="30" width="40" />
+  <a href="https://eng-antony.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" height="32" width="32" style="transition: transform 0.2s ease; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
+</div>
 </p>
-
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <h3 align="center">Languages</h3>
