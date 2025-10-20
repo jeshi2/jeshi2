@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Antony+Wagwana;Certified+Penetration+Testing+Specialist+%28CPTS%29;Cybersecurity+Analyst+%26+Back-End+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Antony+Wagwana;Penetration+Testing+Specialist;Cybersecurity+Analyst;Back-End+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -43,7 +43,6 @@
   <img src="https://komarev.com/ghpvc/?username=jeshi2&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Counter" />
 </div>
 
-- ⚡ Fun fact **Success is like Pregnancy, We get Congratulation but no one knows how many times you get F*cked**
 
 
 ## 🧠 Penetration Tester Path – Completed ✅
