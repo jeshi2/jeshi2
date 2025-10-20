@@ -23,19 +23,34 @@
 
 - ⚡ Fun fact **Success is like Pregnancy, We get Congratulation but no one knows how many times you get F*cked**
 
+
 ## 🧠 Penetration Tester Path – Completed ✅
 
-**Certified Penetration Testing Specialist (CPTS)** — Hack The Box / Cylander (Oct 2, 2025)
+<div align="center">
+  <img src="https://img.shields.io/badge/CPTS-Certified_Penetration_Testing_Specialist-00D4AA?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CPTS Badge" />
+</div>
 
-Summary:
-- Completed Hack The Box Penetration Tester path with demonstrated expertise in enumeration, exploitation, privilege escalation (Linux & Windows), and realistic red-team scenarios.
-- Practical experience with lab-based enterprise simulations and hands-on attack/defense workflows.
-- Focus: secure, repeatable testing and actionable remediation recommendations.
+**Certified Penetration Testing Specialist (CPTS)**  
+*Hack The Box Academy / Cylander*  
+*📅 Oct 2, 2025*
 
-Links:  
-👤 HTB Profile: [jeshi2](https://app.hackthebox.com/profile/856425)  
-🧰 #CyberSecurity #CPTS #Pentesting #InfoSec
+### 📋 Summary
+- 🔍 **Expertise Demonstrated**: Mastered the full Hack The Box Penetration Tester path, showcasing advanced skills in enumeration, exploitation, and privilege escalation across Linux & Windows environments.
+- 🛡️ **Hands-On Experience**: Tackled realistic red-team scenarios through lab-based enterprise simulations, emphasizing attack/defense workflows for secure, repeatable testing.
+- ⚡ **Core Focus**: Delivering actionable remediation recommendations to fortify defenses and mitigate risks effectively.
 
+### 🔗 Links & Resources
+<div align="center">
+  <a href="https://app.hackthebox.com/profile/856425">
+    <img src="https://img.shields.io/badge/HTB_Profile-jeshi2-181717?style=for-the-badge&logo=github&logoColor=white" alt="HTB Profile" />
+  </a>
+</div>
+
+<div align="center">
+  <span style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+    🧰 #CyberSecurity #CPTS #Pentesting #InfoSec
+  </span>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
