@@ -25,15 +25,17 @@
 
 ## 🧠 Penetration Tester Path – Completed ✅
 
-I’ve successfully completed the **Penetration Tester** path on Hack The Box Academy!
+**Certified Penetration Testing Specialist (CPTS)** — Hack The Box / Cylander (Oct 2, 2025)
 
-- Gained skills in enumeration, exploitation, privilege escalation (Linux & Windows), and real-world attack scenarios.
-- Practiced hands-on labs built to simulate enterprise-grade environments.
-- Strengthened red team and ethical hacking capabilities.
+Summary:
+- Completed Hack The Box Penetration Tester path with demonstrated expertise in enumeration, exploitation, privilege escalation (Linux & Windows), and realistic red-team scenarios.
+- Practical experience with lab-based enterprise simulations and hands-on attack/defense workflows.
+- Focus: secure, repeatable testing and actionable remediation recommendations.
 
-Proud moment unlocked on Hack The Box. On to the next challenge! 🔐  
+Links:  
 👤 HTB Profile: [jeshi2](https://app.hackthebox.com/profile/856425)  
-🧰 #CyberSecurity #Pentesting #HackTheBox #RedTeam #InfoSec
+🧰 #CyberSecurity #CPTS #Pentesting #InfoSec
+
 
 
 <h3 align="left">Connect with me:</h3>
