@@ -55,11 +55,153 @@ Links:
   <a href="https://www.leetcode.com/jeshi2" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/leetcode/F89F1B" alt="LeetCode" height="30" width="40" />
   </a>
+  <a href="https://app.hackthebox.com/profile/856425" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" height="30" width="40" />
+  </a>
+  <a href="https://eng-antony.vercel.app" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h2 align="center">🛠️ Languages and Tools</h2>
+<h3 align="center">Languages</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://dart.dev/" target="_blank"><img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/bash/4EAA25" alt="Bash" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Python</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">C++</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">C</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">JavaScript</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">TypeScript</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Dart</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Bash</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">MySQL</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">PostgreSQL</td>
+  </tr>
+</table>
+<h3 align="center">⚙️ Backend & Frameworks</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Node.js</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Express.js</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Django</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Flask</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Firebase</td>
+  </tr>
+</table>
+<h3 align="center">📱 Mobile & Frontend</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://flutter.dev/" target="_blank"><img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://ionicframework.com/" target="_blank"><img src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.simpleicons.org/reactnative/61DAFB" alt="React Native" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextjs/000000" alt="Next.js" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Flutter</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Ionic</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">React Native</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Next.js</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">TailwindCSS</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Figma</td>
+  </tr>
+</table>
+<h3 align="center">🗄️ Databases</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">PostgreSQL</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Firebase</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Redis</td>
+  </tr>
+</table>
+<h3 align="center">☁️ DevOps & Cloud</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://nginx.org/" target="_blank"><img src="https://cdn.simpleicons.org/nginx/009639" alt="NGINX" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Git</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">GitHub</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Docker</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Kubernetes</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">AWS</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">NGINX</td>
+  </tr>
+</table>
+<h3 align="center">🔐 Cybersecurity Tools</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.hackthebox.com/" target="_blank"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://nmap.org/" target="_blank"><img src="https://cdn.simpleicons.org/nmap/00488C" alt="Nmap" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/000000" alt="Metasploit" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/000000" alt="Linux" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Kali Linux</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Hack The Box</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Burp Suite</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Nmap</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Wireshark</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Metasploit</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Cisco</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Linux</td>
+  </tr>
+</table>
+<h3 align="center">💻 Tools & Platforms</h3>
+<table align="center" style="border-collapse: collapse; margin: 0 auto;">
+  <tr>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.jetbrains.com/" target="_blank"><img src="https://cdn.simpleicons.org/jetbrains/000000" alt="JetBrains" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.simpleicons.org/vscode/007ACC" alt="VS Code" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="40" height="40"/></a></td>
+    <td style="text-align: center; padding: 5px; width: 60px;"><a href="https://www.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/1575F9" alt="Xcode" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Postman</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">JetBrains</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">VS Code</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Android</td>
+    <td style="text-align: center; padding: 2px; width: 60px; font-size: 12px;">Xcode</td>
+  </tr>
+</table>
+
+
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jeshi2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeshi2" /></a></p><br><br>
